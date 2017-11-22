@@ -1,3 +1,6 @@
+
+//program to generate random numbers using enhanced for loop
+
 import java.util.Random
 public class Random
 {
